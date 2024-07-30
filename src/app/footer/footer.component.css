@@ -1,0 +1,16 @@
+.bg-footer{
+    background-color: #2C3E50;
+}
+.bg-footer1{
+    background-color: #102133;
+}
+.icon-footer{
+    display:flex;
+    align-items: center;
+    justify-content: center;
+    background-color:#2C3E50;
+    width: 40px;
+    height: 40px;
+    border: 1.5px solid #fff ;
+    border-radius: 50%;
+}

@@ -1,0 +1,30 @@
+.bg-nav{
+    background-color: #1ABC9C;
+}
+.bg-card{
+    background-color: #2C3E50;
+}
+.color{
+    color: #2C3E50;
+}
+.bg-home{
+    background-color: #1ABC9C;
+}
+.after::after{
+    content: "";
+    width: 10%;
+    height: 3.5px;
+    background-color: #FFF;
+    position: absolute;
+    top: 50%;
+    right:35%;
+}
+.after::before{
+    content: "";
+    width: 10%;
+    height: 3.5px;
+    background-color: #FFF;
+    position: absolute;
+    top: 50%;
+    left:35%;
+}

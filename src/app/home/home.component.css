@@ -1,0 +1,23 @@
+
+
+.bg-home{
+    background-color: #1ABC9C;
+}
+.after::after{
+    content: "";
+    width: 15%;
+    height: 3.5px;
+    background-color: #FFF;
+    position: absolute;
+    top: 50%;
+    right:28%;
+}
+.after::before{
+    content: "";
+    width: 15%;
+    height: 3.5px;
+    background-color: #FFF;
+    position: absolute;
+    top: 50%;
+    left:28%;
+}

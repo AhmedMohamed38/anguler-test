@@ -1,0 +1,30 @@
+.after::after{
+    content: "";
+    width: 7%;
+    height: 3.5px;
+    background-color: #2C3E50;
+    position: absolute;
+    top: 50%;
+    right:40%;
+}
+.after::before{
+    content: "";
+    width: 7%;
+    height: 3.5px;
+    background-color: #2C3E50;
+    position: absolute;
+    top: 50%;
+    left:40%;
+}
+.color-nav{
+    color:#2C3E50;
+}
+.input:focus-visible{
+    outline: none;
+}
+.form-control:focus {
+    box-shadow: none;
+}
+.bg-nav{
+    background-color: #1ABC9C !important;
+}
